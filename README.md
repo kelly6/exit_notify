@@ -5,3 +5,6 @@ exit_notify
 
 import exit_notify
 exit_notify.init() 即可
+
+依赖:
+    notify-send
